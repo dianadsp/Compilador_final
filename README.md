@@ -22,3 +22,21 @@ PRINT (max_count);
 max_count = max_count+1;
 PRINT (max_count);
 ```
+
+# Descomentar Linea por linea para probar errores
+```
+#descomentar linea por linea para probar errores
+#?
+#/   
+
+FLOAT max_count = 10.0;
+INTEGER max_tabla = 200;
+STRING str_p = "Hola Mundo";
+LIST l_tabla = [100,"Adios",max_tabla,3.14];
+
+#descomentar linea por linea para probar errores
+
+#INTEGER var = "Hola";
+#PRINT (var);
+#PRINT (str_p * 8);
+```
