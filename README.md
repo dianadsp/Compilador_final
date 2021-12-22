@@ -1,6 +1,10 @@
 # Para correr:
 ```
-python Compilador.py
+python3 -m pip install matplotlib
+python3 -m pip install rply
+python3 -m pip install tk
+
+python3 Compilador.py
 ```
 
 # Codigos Ejemplo:
