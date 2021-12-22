@@ -10,10 +10,10 @@ python Compilador.py
 FLOAT max_count = 10.0;
 INTEGER max_tabla = 200;
 STRING str_p = "Hola Mundo";
-LIST L_tabla = [100,"Adios",max_tabla,3.14];
+LIST l_tabla = [100,"Adios",max_tabla,3.14];
 
 PRINT ([max_count,max_tabla,str_p]);
-PRINT (L_tabla);
+PRINT (l_tabla);
 
 max_count = max_count+1;
 PRINT (max_count);
