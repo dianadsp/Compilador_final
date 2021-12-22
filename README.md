@@ -25,7 +25,7 @@ PRINT (max_count);
 
 # Descomentar Linea por linea para probar errores
 ```
-#descomentar linea por linea para probar errores
+#descomentar linea por linea para probar errores sintacticos
 #?
 #/   
 
@@ -34,7 +34,7 @@ INTEGER max_tabla = 200;
 STRING str_p = "Hola Mundo";
 LIST l_tabla = [100,"Adios",max_tabla,3.14];
 
-#descomentar linea por linea para probar errores
+#descomentar linea por linea para probar errores semanticos
 
 #INTEGER var = "Hola";
 #PRINT (var);
